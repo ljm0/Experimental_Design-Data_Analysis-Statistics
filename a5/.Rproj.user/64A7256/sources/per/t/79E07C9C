@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553863496745.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3761486804",
+    "id" : "79E07C9C",
+    "lastKnownWriteTime" : 1553879205,
+    "last_content_update" : 1553879205934,
+    "path" : "D:/000_VU_Study/P4/EDDA/a5/5.R",
+    "project_path" : "5.R",
+    "properties" : {
+        "cursorPosition" : "39,0",
+        "scrollLine" : "19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552731043232.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "64B55284",
+    "lastKnownWriteTime" : 7163382464721715200,
+    "last_content_update" : 1552731043232,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3BC840A1",
+        "caption" : "africa",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=africa&cache_key=3BC840A1",
+        "displayedObservations" : "36",
+        "environment" : "",
+        "object" : "africa",
+        "preview" : "0",
+        "totalObservations" : "36",
+        "variables" : "9"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
