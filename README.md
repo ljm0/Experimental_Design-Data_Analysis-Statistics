@@ -1,5 +1,6 @@
 # Experimental_Design-Data_Analysis-Statistics
-- Designed experiments and used statistical methods to analyze data, including linear regression, logistic regression, ANOVA, t-test and so on
+- Designed statistics experiments 
+- Used statistical methods to analyze data, including linear regression, logistic regression, ANOVA, t-test, etc.
 - Based on R
 
 # Files
